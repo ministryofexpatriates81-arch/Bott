@@ -1,0 +1,6 @@
+{
+  "appId": "com.yourname.whatsappclone",
+  "appName": "WhatsApp",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
